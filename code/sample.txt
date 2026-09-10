@@ -1,0 +1,3 @@
+Hello, world! HELLO, Python.
+Python is fun; python is useful.
+World: hello? Fun!
