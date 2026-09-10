@@ -12,3 +12,4 @@ Contents:
 - `result/`: experiment results
 - `report/`: experiment report
 
+Remote update from GitHub web interface.
